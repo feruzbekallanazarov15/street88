@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(../font/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: "Raleway";
+    src: url(../font/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: "Feruzbek";
+    src: url(../font/Raleway-Black.ttf);
+}
+@font-face {
+    font-family: "Feruz";
+    src: url(../font/Raleway-Thin.ttf);
+}
